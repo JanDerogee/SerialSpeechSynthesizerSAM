@@ -1,0 +1,112 @@
+* ENGLISH words that should not be spoken by SSSSAM
+* -------------------------------------------------
+* Consider this dictionary as an example of an
+* alternative use for a dictionary. Because a
+* dictionary also allows you to pronounce something
+* completely different than the user might want to
+* pronounce.
+*
+* bullshit=BIYIYP 	converts the word into "beep"
+* cock=RUHSTER		convert the questionable word into something less confusing. after all, a cock is a rooster
+*
+* Be carefull with this implementation of the
+* dictionary, because when we are making it
+* impossible to speak certain words. It is a form
+* of censorship, which is a very dubious practice!
+* -------------------------------------------------
+***A***
+arse=BIYIYP
+arsehole=BIYIYP
+***B***
+bastard=BIYIYP
+balls=BIYIYP
+bellend=BIYIYP
+berk=BIYIYP
+bint=BIYIYP
+bitch=BIYIYP
+blimey=BIYIYP
+blighter=BIYIYP
+bloodclaat=BIYIYP
+bloody=BIYIYP
+blooming=BIYIYP
+bollocks=BIYIYP
+bugger=BIYIYP
+bullshit=BIYIYP
+***C***
+cad=BIYIYP
+cack=BIYIYP
+chav=BIYIYP
+clunge=BIYIYP
+cobblers=BIYIYP
+cock=RUHSTER
+cockup=BIYIYP
+codger=BIYIYP
+crap=BIYIYP
+crikey=BIYIYP
+cunt=BIYIYP
+***D***
+damn=BIYIYP
+dick=BIYIYP
+dickhead=BIYIYP
+duffer=BIYIYP
+***E***
+***F***
+fanny=BIYIYP
+feck=BIYIYP
+flaps=BIYIYP
+fuck=BIYIYP
+fucking=BIYIYP
+fucks=BIYIYP
+***G***
+gash=BIYIYP
+goddam=BIYIYP
+gorblimey=BIYIYP
+gormless=BIYIYP
+***H***
+***I***
+***J***
+***K***
+knob=BIYIYP
+knobber=BIYIYP
+knobhead=BIYIYP
+***L***
+***M***
+manky=BIYIYP
+minger=BIYIYP
+minging=BIYIYP
+munter=BIYIYP
+***N***
+naff=BIYIYP
+numpty=BIYIYP
+nutter=BIYIYP
+***O***
+***P***
+pillock=BIYIYP
+pish=BIYIYP
+pissed=BIYIYP
+plonker=BIYIYP
+prat=BIYIYP
+prick=BIYIYP
+punani=BIYIYP
+pussy=BIYIYP
+***Q***
+***R***
+rotter=BIYIYP
+***S***
+scrubber=BIYIYP
+shit=BIYIYP
+shite=BIYIYP
+snatch=BIYIYP
+swine=BIYIYP
+***T***
+tits=BIYIYP
+tosser=BIYIYP
+tuss=BIYIYP
+twat=BIYIYP
+***U***
+***V***
+***W***
+wanker=BIYIYP
+***X***
+***Y***
+***Z***
