@@ -18,7 +18,7 @@ Sebastian Macke     https://github.com/s-macke/SAM
 
 Earle F. Philhower  https://github.com/earlephilhower/ESP8266Audio
 
-So that all I needed to do was to create an interface around it, allowing for setting control and special functions. And ofcourse make a nice PCB for it so it can be used neat and tidy on a VIC-20. With a small manual completing everything (although lot's of that manual was copied from the original SAM manual, which makes sense as this is in fact a reincarnation of SAM). The manual explaining the singing mode and device implements a demo of the famous song "Bicycle build for two" also known as "Daisy".
+So that all I needed to do was to create an interface around it, allowing for setting control and special functions. And ofcourse make a nice PCB for it so it can be used neat and tidy on a VIC-20. With a small manual completing everything (although lot's of that manual was copied from the original SAM manual, which makes sense as this is in fact a reincarnation of SAM). The manual explaining the singing mode and device implements a demo of the famous song "Bicycle build for two" also known as "Daisy". Now in order to improve the usabillity of SAM I added the option of using a dictionary. This way SAM can be instructed to pronounce word differently, allowing for improved speech, alternative languages or censoring of "unwanted" words.
 
 For more information, visit my website: https://janderogee.com
 
